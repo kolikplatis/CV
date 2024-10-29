@@ -1,1 +1,1 @@
-# CV
+[Резюме-сайт](https://olegkozminykh.netlify.app/)
