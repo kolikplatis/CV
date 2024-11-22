@@ -1,2 +1,2 @@
-- [Резюме(PDF)](https://drive.google.com/file/d/1-V2w7saOUurJIbMlJ20I-k6SgPpZ7LlW/view?usp=sharing)
-- [Резюме-сайт](https://olegkozminykh.netlify.app/)
+- **[Резюме(PDF)](https://drive.google.com/file/d/1-A9e3Um44ofm97asmapvhogYya5bhZ5Y/view?usp=sharing)**
+- **[Резюме-сайт](https://olegkozminykh.netlify.app/)**
